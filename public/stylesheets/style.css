@@ -21,7 +21,13 @@ width: 40%; height: 40%;
 	 float:right;
     clear:both;
 }
+#texto_exp {
 
+  color:#0C7BA1;
+  font-weight: bold;
+  font-family: "palatino linotype",palatino,serif;
+  font-size: 16px;
+}
 
 article {
   border: 2px solid #ffffff;
